@@ -1,0 +1,3 @@
+interface InterfazDescuento {
+    double calcularDescuento();
+}
